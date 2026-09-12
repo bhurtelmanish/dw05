@@ -15,3 +15,4 @@ std::string retrieve_name() {
 void greeting(const std::string name) {
     std::cout << "Welcome, " << name << std::endl;
 }
+
